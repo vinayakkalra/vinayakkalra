@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![Rust](https://img.shields.io/badge/Rust-Intermediate-lightgrey)
 
-A full stack developer with expertise in ReactJS, NodeJS, PHP and React Native and intermediate skills in Web3. Currently sharpening my skills in Web3, specifically smart contract development on Ethereum network. Founded [QuadB Technologies](https://github.com/quadbtech), a technical service provider firm, where we are now focused on building decentralized products for next generation to use.
+A Lead with expertise in ReactJS, NodeJS, PHP and React Native and intermediate skills in Web3. Currently sharpening my skills in Web3, specifically smart contract development on Ethereum network. Founded [QuadB Technologies](https://github.com/quadbtech), a technical service provider firm, where we are now focused on building decentralized products for next generation to use.
 
 ### 🔭 I’m currently working on ...
 
